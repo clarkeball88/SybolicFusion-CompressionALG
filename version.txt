@@ -1,0 +1,5 @@
+Symbolic Compression System
+Version: 1.0.0
+Release Date: 2025-07-28
+Author: Clarke Ball
+Description: First public release of the symbolic compression engine, including macro-folded encoder, mirrored number system, and unit test validation suite.
