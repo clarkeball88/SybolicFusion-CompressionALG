@@ -1,0 +1,4 @@
+Algorithm,Original Size,Compressed Size,Compression Rate
+YourSymbolicCompression,128,10,92.2%
+gzip,128,24,81.2%
+brotli,128,18,85.9%

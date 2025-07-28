@@ -1,0 +1,4 @@
+# Execution Time Benchmarks
+Symbolic Fibonacci: 0.0021s
+Symbolic Prime Finder: 0.0034s
+Macro Expansion Benchmark: 0.0018s

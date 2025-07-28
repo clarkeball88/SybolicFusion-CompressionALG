@@ -1,0 +1,10 @@
+# Symbolic Compression Benchmarks
+Test Case: Fibonacci Symbolic
+Original Size: 128 units
+Compressed Size: 10 units
+Compression Rate: 92.2%
+
+Test Case: Prime Finder Symbolic
+Original Size: 190 units
+Compressed Size: 15 units
+Compression Rate: 92.1%
