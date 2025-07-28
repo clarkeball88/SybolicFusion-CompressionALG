@@ -1,0 +1,2 @@
+# Core requirements for the symbolic compression system
+pytest>=7.0.0      # For running test suites
