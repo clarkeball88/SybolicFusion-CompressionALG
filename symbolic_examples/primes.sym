@@ -1,0 +1,5 @@
+# Symbolic Prime Number Detection
+⟦2⟧ -> PRIME
+⟦3⟧ -> PRIME
+⟦4⟧ -> COMPOSITE
+⟦5⟧ -> PRIME

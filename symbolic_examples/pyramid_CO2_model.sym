@@ -1,0 +1,3 @@
+# Symbolic Model: Pyramid CO₂ Reaction
+⟦acid⟧ + ⟦limestone⟧ + ⟦heat⟧ => ⟦CO₂⟧
+⟦symbolic_pyramid⟧ = FUSION_MODEL(⟦acid⟧, ⟦limestone⟧, ⟦heat⟧)
