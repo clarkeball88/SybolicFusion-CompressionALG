@@ -1,3 +1,11 @@
+<!-- BADGES -->
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![Compression](https://img.shields.io/badge/compression-92.3%25-success)
+![Status](https://img.shields.io/badge/status-Active-brightgreen)
+![Build](https://img.shields.io/badge/build-passing-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-informational)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+
 # Symbolic Compression System
 
 **Inventor**: Clarke Ball  
