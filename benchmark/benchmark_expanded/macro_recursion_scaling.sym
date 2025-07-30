@@ -1,0 +1,2 @@
+# Test macro recursion depth & compression
+REPEAT ⟦MACRO⟧ × 1000

@@ -1,0 +1,3 @@
+Symbolic size: 812 bytes
+Gzip size: 1342 bytes
+Advantage: 39%
