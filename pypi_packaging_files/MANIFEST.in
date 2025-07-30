@@ -1,0 +1,5 @@
+include README.md
+include LICENSE
+include version.txt
+recursive-include src/symbolic_compression *
+recursive-include tests *

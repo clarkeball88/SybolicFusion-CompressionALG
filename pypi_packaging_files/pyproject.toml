@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "symbolic-compression"
+version = "0.1.0"
+description = "A symbolic compression and macro-folding system enabling ultra-efficient encoding."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+authors = [{ name = "Clarke Ball" }]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = []
+
+[project.urls]
+"Homepage" = "https://github.com/yourusername/symbolic-compression"
+"Documentation" = "https://github.com/yourusername/symbolic-compression/docs"
