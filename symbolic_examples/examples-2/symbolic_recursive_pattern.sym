@@ -1,0 +1,5 @@
+# Demonstrate recursion in symbolic compression
+⟦R1⟧ = ⟦1,2,3⟧
+⟦R2⟧ = repeat(⟦R1⟧, ⟦3⟧)
+⟦R3⟧ = fold(⟦R2⟧)
+Output: ⟦R3⟧

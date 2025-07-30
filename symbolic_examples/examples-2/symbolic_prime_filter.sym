@@ -1,0 +1,4 @@
+# Prime filter example in symbolic code
+⟦X⟧ = range(⟦1⟧, ⟦36⟧)
+⟦Y⟧ = filter(⟦X⟧, λn. is_prime(n))
+Output: ⟦Y⟧
